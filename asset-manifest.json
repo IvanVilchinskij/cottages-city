@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/cottages-city/static/css/main.7b7c1be0.chunk.css",
+    "main.js": "/cottages-city/static/js/main.f07c4821.chunk.js",
+    "main.js.map": "/cottages-city/static/js/main.f07c4821.chunk.js.map",
+    "runtime-main.js": "/cottages-city/static/js/runtime-main.7313f973.js",
+    "runtime-main.js.map": "/cottages-city/static/js/runtime-main.7313f973.js.map",
+    "static/js/2.50a5f9f5.chunk.js": "/cottages-city/static/js/2.50a5f9f5.chunk.js",
+    "static/js/2.50a5f9f5.chunk.js.map": "/cottages-city/static/js/2.50a5f9f5.chunk.js.map",
+    "index.html": "/cottages-city/index.html",
+    "static/css/main.7b7c1be0.chunk.css.map": "/cottages-city/static/css/main.7b7c1be0.chunk.css.map",
+    "static/js/2.50a5f9f5.chunk.js.LICENSE.txt": "/cottages-city/static/js/2.50a5f9f5.chunk.js.LICENSE.txt",
+    "static/media/1.2503fd5d.png": "/cottages-city/static/media/1.2503fd5d.png",
+    "static/media/2.b9eaacbf.png": "/cottages-city/static/media/2.b9eaacbf.png",
+    "static/media/3.150cebd6.png": "/cottages-city/static/media/3.150cebd6.png",
+    "static/media/4.45c8d9bf.png": "/cottages-city/static/media/4.45c8d9bf.png",
+    "static/media/5.e135bec0.png": "/cottages-city/static/media/5.e135bec0.png",
+    "static/media/6.a99c3cfb.png": "/cottages-city/static/media/6.a99c3cfb.png",
+    "static/media/about_img.d52c90fe.jpg": "/cottages-city/static/media/about_img.d52c90fe.jpg",
+    "static/media/advantages.e41f828f.jpg": "/cottages-city/static/media/advantages.e41f828f.jpg",
+    "static/media/app.4d5f9be1.svg": "/cottages-city/static/media/app.4d5f9be1.svg",
+    "static/media/index.scss": "/cottages-city/static/media/main-bg.227aa60e.jpg",
+    "static/media/decoration2.160d5d8c.png": "/cottages-city/static/media/decoration2.160d5d8c.png",
+    "static/media/fence.69ebf53e.svg": "/cottages-city/static/media/fence.69ebf53e.svg",
+    "static/media/house.635c47f2.svg": "/cottages-city/static/media/house.635c47f2.svg",
+    "static/media/icons.051c9a5f.svg": "/cottages-city/static/media/icons.051c9a5f.svg",
+    "static/media/location.4f5c37ba.png": "/cottages-city/static/media/location.4f5c37ba.png",
+    "static/media/logo_symbol.b7659dcf.png": "/cottages-city/static/media/logo_symbol.b7659dcf.png",
+    "static/media/map.4e01508e.svg": "/cottages-city/static/media/map.4e01508e.svg",
+    "static/media/qr.eae45ba9.jpg": "/cottages-city/static/media/qr.eae45ba9.jpg",
+    "static/media/shield.0650f778.svg": "/cottages-city/static/media/shield.0650f778.svg",
+    "static/media/slide_pic.dfd21231.jpg": "/cottages-city/static/media/slide_pic.dfd21231.jpg",
+    "static/media/slide_plan.824a9821.png": "/cottages-city/static/media/slide_plan.824a9821.png",
+    "static/media/sofa.9f918835.svg": "/cottages-city/static/media/sofa.9f918835.svg",
+    "static/media/some-shit.5a5192e9.svg": "/cottages-city/static/media/some-shit.5a5192e9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7313f973.js",
+    "static/js/2.50a5f9f5.chunk.js",
+    "static/css/main.7b7c1be0.chunk.css",
+    "static/js/main.f07c4821.chunk.js"
+  ]
+}
